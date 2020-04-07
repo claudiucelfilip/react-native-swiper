@@ -1,11 +1,11 @@
 {
-  "name": "react-native-swiper",
+  "name": "@claudiucelfilip/react-native-swiper",
   "keywords": [
     "react-component",
     "react-native",
     "ios"
   ],
-  "version": "1.6.0-rc.2",
+  "version": "1.6.0-rc.4",
   "description": "Swiper component for React Native.",
   "main": "index.js",
   "scripts": {
